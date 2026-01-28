@@ -1,0 +1,56 @@
+This repository contains projects, setup instructions, reference materials, and supporting resources for working with a Raspberry Pi.
+
+
+Folder Structure:
+.
+├── setup/
+├── projects/
+├── purchase_links/
+└── hand_outs/
+
+
+setup/
+
+Contains initial setup and configuration materials for the Raspberry Pi.
+    First-boot setup steps
+    System configuration
+    Common troubleshooting tips
+
+Start here if you are setting up a Raspberry Pi for the first time.
+
+
+projects/
+
+Contains Raspberry Pi projects and experiments.
+    Each project should live in its own subfolder
+    May include source code and instructions
+    Designed to be easy to explore, modify, and extend
+
+
+purchase_links/
+
+Contains links and information for purchasing hardware and accessories.
+    Components used in projects (sensors, cables, displays, etc.)
+    Recommended vendors
+    Replacement parts and add-ons
+
+
+hand_outs/
+
+Contains printable or shareable materials.
+    Program handouts
+    Quick reference sheets
+    Safety Precautions
+
+
+Getting Started
+    1. Begin with the setup/ folder to prepare your Raspberry Pi.
+    2. Explore the projects/ folder to start building.
+    3. Refer to purchase_links/ if you need hardware.
+    4. Use hand_outs/ for learning, teaching, or workshops.
+
+
+Notes
+    Folder names are intentionally simple and descriptive.
+    Additional README files inside folders are encouraged for more detail.
+    
