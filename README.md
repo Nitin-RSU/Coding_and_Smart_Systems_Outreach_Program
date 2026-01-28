@@ -1,14 +1,6 @@
 This repository contains projects, setup instructions, reference materials, and supporting resources for working with a Raspberry Pi.
 
 
-Folder Structure:
-.
-├── setup/
-├── projects/
-├── purchase_links/
-└── hand_outs/
-
-
 setup/
 
 Contains initial setup and configuration materials for the Raspberry Pi.
