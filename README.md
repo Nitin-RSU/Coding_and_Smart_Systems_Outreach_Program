@@ -2,14 +2,17 @@ This repository contains projects, setup instructions, reference materials, and 
 
 
 setup/
+
 Contains initial setup and configuration materials for the Raspberry Pi.
     First-boot setup steps
     System configuration
     Common troubleshooting tips
+    
 Start here if you are setting up a Raspberry Pi for the first time.
 
 
 projects/
+
 Contains Raspberry Pi projects and experiments.
     Each project should live in its own subfolder
     May include source code and instructions
@@ -17,6 +20,7 @@ Contains Raspberry Pi projects and experiments.
 
 
 purchase_links/
+
 Contains links and information for purchasing hardware and accessories.
     Components used in projects (sensors, cables, displays, etc.)
     Recommended vendors
@@ -24,6 +28,7 @@ Contains links and information for purchasing hardware and accessories.
 
 
 hand_outs/
+
 Contains printable or shareable materials.
     Program handouts
     Quick reference sheets
